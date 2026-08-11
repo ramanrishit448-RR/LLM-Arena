@@ -31,14 +31,6 @@
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/xEBSV-M-qFk" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">✨ Introduction</a>
 
 LLM Arena is a unique measuring instrument built to evaluate open-source AI models based on real data, not just vibes. Users submit a single prompt, and the arena races up to three different models side-by-side in real-time, streaming their answers and tracking exact metrics like tokens per second, time to first token, and cost. Users then vote on the winning response, dynamically updating a public leaderboard to reveal which models actually perform best for real-world tasks.
