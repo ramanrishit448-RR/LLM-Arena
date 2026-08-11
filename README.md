@@ -137,10 +137,3 @@ Assets, the generated specification file, and Excalidraw sketches used in the pr
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with our Pro Courses**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/arena-jsm" target="_blank">
-  <img src="public/readme/readme-jsmpro.webp" alt="Project Banner">
-</a>
