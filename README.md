@@ -9,7 +9,7 @@
 </div>
 
 
-  <h2 align="center">LLM Arena | Real-Time AI Model Racing</h2>
+  <h1 align="center">LLM Arena | Real-Time AI Model Racing</h1>
 
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -18,8 +18,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
 
 ## <a name="introduction">✨ Introduction</a>
 
