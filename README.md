@@ -1,11 +1,4 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/xEBSV-M-qFk" target="_blank">
-      <img src="public/readme/readme-hero.webp" alt="Project Banner">
-    </a>
-  <br />
-
-  <div>
+<div>
     <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -13,13 +6,10 @@
     <img src="https://img.shields.io/badge/-Arcjet-000000?style=for-the-badge&logo=arcjet&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostHog-8B4513?style=for-the-badge&logo=posthog&logoColor=white" />
   <img src="https://img.shields.io/badge/-Greptile-22c55e?style=for-the-badge" />
-  </div>
+</div>
 
-  <h3 align="center">LLM Arena | Real-Time AI Model Racing</h3>
-
-   <div align="center"> 
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+<div> 
+  <h1>LLM Arena | Real-Time AI Model Racing</h1>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -126,14 +116,4 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## <a name="links">🔗 Assets</a>
-
-Assets, the generated specification file, and Excalidraw sketches used in the project can be found in the **[video kit](https://jsmastery.com/video-kit/70081690-c890-4da2-a6d3-767465cdccd4)**.
-
-<a href="https://jsmastery.com/video-kit/70081690-c890-4da2-a6d3-767465cdccd4" target="_blank">
-  <img src="public/readme/readme-videokit.webp" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
 
