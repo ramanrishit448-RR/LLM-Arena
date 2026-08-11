@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/-Greptile-22c55e?style=for-the-badge" />
 </div>
 
-<div> 
-  <h1>LLM Arena | Real-Time AI Model Racing</h1>
-</div>
+
+  <h2 align="center">LLM Arena | Real-Time AI Model Racing</h2>
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
