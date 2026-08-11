@@ -1,4 +1,10 @@
-<div>
+<div align="center">
+    <img src="Screenshot 2026-08-11 205615.png" />
+</div>
+
+<br>
+
+<div align="center">
     <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
