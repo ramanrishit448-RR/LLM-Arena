@@ -35,10 +35,6 @@
 
 LLM Arena is a unique measuring instrument built to evaluate open-source AI models based on real data, not just vibes. Users submit a single prompt, and the arena races up to three different models side-by-side in real-time, streaming their answers and tracking exact metrics like tokens per second, time to first token, and cost. Users then vote on the winning response, dynamically updating a public leaderboard to reveal which models actually perform best for real-world tasks.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **[Next.js](https://nextjs.org/)** is a production-ready React framework that offers server-side rendering, static site generation, and powerful routing features. It streamlines the development of full-stack web applications by providing a comprehensive ecosystem for performance optimization and API development.
