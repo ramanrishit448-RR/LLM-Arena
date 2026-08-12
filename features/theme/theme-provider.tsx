@@ -9,3 +9,13 @@ import type { ReactNode } from "react";
  * mode is a `.dark` class on `<html>`, seeded from the system setting on a
  * first visit and remembered after that.
  */
+export const ThemeProvider = ({ children }: { readonly children: ReactNode }) => (
+  <NextThemesProvider
+    attribute="class"
+    defaultTheme="system"
+    enableSystem
+    disableTransitionOnChange
+  >
+    {children}
+  </NextThemesProvider>
+);
