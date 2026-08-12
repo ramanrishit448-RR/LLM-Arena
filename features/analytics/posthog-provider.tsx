@@ -54,17 +54,3 @@ const useIdentifyFromClerk = (): void => {
   }, [isLoaded, isSignedIn, user]);
 };
 
-const PostHogIdentity = ({ children }: { readonly children: ReactNode }) => {
-  useIdentifyFromClerk();
-  return <>{children}</>;
-};
-
-export const PostHogProvider = ({ children }: { readonly children: ReactNode }) => {
-  if (!posthogKey || !posthogHost) return <>{children}</>;
-
-  return (
-    <PostHogContextProvider client={posthog}>
-      <PostHogIdentity>{children}</PostHogIdentity>
-    </PostHogContextProvider>
-  );
-};
