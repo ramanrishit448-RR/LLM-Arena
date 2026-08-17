@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/-Greptile-22c55e?style=for-the-badge" />
 </div>
 
-
   <h1 align="center">LLM Arena | Real-Time AI Model Racing</h1>
-
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -112,12 +110,14 @@ NEXT_PUBLIC_POSTHOG_HOST=https://us.i.posthog.com
 # https://app.arcjet.com -> your site -> SDK key
 ARCJET_KEY=ajkey_
 ```
+
 Replace the placeholder values with your real credentials. You can get these by signing up at: [**Clerk**](https://jsm.dev/arena-clerk), [**PostHog**](https://jsm.dev/arena-posthog), [**Arcjet**](https://jsm.dev/arena-arcjet), [**Greptile**](https://jsm.dev/arena-greptile), [**OpenRouter**](https://openrouter.ai/), and your PostgreSQL provider.
 
 **Running the Project**
+
 ```bash
+npx prisma db push
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
