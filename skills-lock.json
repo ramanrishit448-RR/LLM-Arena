@@ -5,7 +5,7 @@
       "source": "arcjet/skills",
       "sourceType": "github",
       "skillPath": "arcjet/SKILL.md",
-      "computedHash": "d2e20ccf2a728d9d3f5cc8e3ce26394be726bea156513895811f4e6b6bb8ffbd"
+      "computedHash": "4d6c976f3bdf0305b23ee22a67a3562e9eeca5dc624acff27cc40d598eb128d9"
     },
     "prisma-cli": {
       "source": "prisma/skills",
